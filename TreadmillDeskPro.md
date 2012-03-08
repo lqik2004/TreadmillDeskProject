@@ -37,5 +37,10 @@
 * “I've been using this desk for a little over a month now. Since December 21st to be exact. Despite Christmas (and multiple Christmas parties), New Year's Eve, socializing and drinking after the New York City Tech Talks, and a family vacation, I've still managed to lose 23 pounds, and I've done it just by going to work. To say I'm happy about how this is working out would be an understatement. I still have quite a bit more weight to lose, but it all seems very doable now.”  
 
 _注意：上一条是在采用TreadmillDesk的情况下_
+###实践：让自己站起来  
+前面的一节讲了久坐办公的危害，以及实践站立办公之后的感受。如果你对站立办公感兴趣并且想亲自尝试一番的话，那么就抓紧实践吧。
+####站立工作的装备
+想要开始站立工作，一定的装备是必须的，我们只是需要一个高一点的桌子而已。一般来说，办公用的桌子高度在73厘米左右，这样的高度如果进行站立办公是不可能的，站立会变得异常痛苦，那么什么样的高度合适呢？由于不同人的身高和习惯不同，怎么舒服怎么来就好，大体来说以**手肘可以直角敲击放在桌面上的键盘的高度为准**，这样会比较舒服也更健康。
+除了准备一个高度合适的桌子，还有就是防护用具了，就如同我前文所说，站立办公也不是完美的，它也有自己的缺点，长久站立可能会产生脚部和腿部僵硬，后背酸痛的症状，为了减缓这样的症状，真正的达到健康工作，一双舒服的鞋是必须的，另外需要注意一点就是**切忌久站久坐，两者应该结合起来方能达到健身的效果。**
 
 
